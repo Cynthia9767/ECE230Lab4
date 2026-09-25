@@ -15,7 +15,12 @@ using an implemented design on your Basys3 boards.
 
 ## Lab Summary
 
-Summarize your learnings from the lab here.
+We learned how to apply SOP and POS with KMaps using Verilog. We also learned
+how to translate AND and OR operations into Verilog code. You apparently can't
+have a space in any file or folder or else nothing works. Also just in general
+a practical application of KMaps to simplify complicated formulas.
+
+Cynthia Morales and Amanda Migliori
 
 ## Lab Questions
 
